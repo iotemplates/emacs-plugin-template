@@ -1,5 +1,7 @@
 * Emacs Plugin Template
 
+[[../../actions/workflows/build.yml/badge.svg]]
+
   This is a simple template that can be used as a starting point for Emacs plugins.
 
   The plugin follows the guidelines outlined in [[https://github.com/cask/cask][cask]].

@@ -53,7 +53,7 @@ jobs:
           version: snapshot
       - name: Add Cask to PATH
         run: echo "$HOME/.cask/bin" >> $GITHUB_PATH
-      - name: Compile
-        run: make compile
+      - name: Build
+        run: make build
       - name: Test
         run: make test
